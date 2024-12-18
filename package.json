@@ -1,5 +1,5 @@
 {
-  "name": "solanahack",
+  "name": "web3-automated-store",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,14 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "class-variance-authority": "^0.7.1",
-    "clsx": "^2.1.1",
-    "lucide-react": "^0.468.0",
+    "@solana/web3.js": "^1.98.0",
     "next": "15.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "tailwind-merge": "^2.5.5",
-    "tailwindcss-animate": "^1.0.7"
+    "web3-automated-store": "file:"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
